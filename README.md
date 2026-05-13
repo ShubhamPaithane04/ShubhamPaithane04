@@ -4,6 +4,7 @@
 
 ### Computer Science student and Full Stack Developer
 
+- 🌐 Portfolio: [Visit My Portfolio](https://my-portfolio-ochre-ten-81.vercel.app/)
 - 💻 Most of my projects are available on [My GitHub Repositories](https://github.com/ShubhamPaithane04?tab=repositories)
 - 📫 How to reach me: **shubhampaithane04@gmail.com**
 
