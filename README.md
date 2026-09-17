@@ -32,6 +32,31 @@
 
 <br/>
 
+## 🔭 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌟 [Aizen](https://github.com/ShubhamPaithane04/Agentic-AI)
+Browser-based AI coding assistant — describe what you want to build, and it classifies your intent, scaffolds a real project across ~10 tech stacks, then runs an agent loop (read → edit → validate) until the result actually works, with a deterministic fallback if the LLM call fails.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧾 [Trust_Ledger](https://github.com/ShubhamPaithane04/Trust_Ledger)
+🚧 In active development — check the repo for the latest details.
+
+![Status](https://img.shields.io/badge/status-WIP-yellow?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 ## 💻 Tech Stack
 
 ### 🚀 Languages
@@ -44,7 +69,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🤖 AI / APIs
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge) ![Stockfish Engine](https://img.shields.io/badge/Stockfish_Engine-000000?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge) ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge) ![Stockfish Engine](https://img.shields.io/badge/Stockfish_Engine-000000?style=for-the-badge)
 
 ### ☁️ Cloud & Tools
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
